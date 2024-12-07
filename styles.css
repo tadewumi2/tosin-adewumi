@@ -259,13 +259,13 @@ a{
     cursor: grab;
 } 
 
-.box1 h2, #box h2, #box2 h2, #box3 h2 {
+.box1 h2, #box h2 {
     background-color: rgba(102, 0, 102, 0.4);
     border-radius: 10px;
     text-align: center;
 }
 
-#box2 h2, #box3 h2 {
+#box2 h2 {
     background-color: rgba(102, 0, 102, 0.4);
     border-radius: 10px;
     text-align: center;
