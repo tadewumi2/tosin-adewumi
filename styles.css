@@ -129,8 +129,11 @@ header h1{
     background-image: url("images/ff.jpeg");
     height: 100%;
 }
-#skillsWrapper{
+#skillsWrapper {
     background-image: url("images/bd.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     height: 100%;
 }
 #box {
