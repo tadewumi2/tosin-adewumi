@@ -15,7 +15,7 @@
 @import url(http://fonts.googleapis.com/css?family=Carrois+Gothic);
 
 #wrapper{
-    height: 600px;
+    height: 100%;
     /*background-image: linear-gradient(#cb60b3, #ffffff);
     background: linear-gradient(45deg,#343434,#402029,#36454f,#353839,#100C08,#1E1E1E) 0 0 / 1000% no-repeat;*/
     background: linear-gradient(45deg, #cb60b3, #a14a8a, #873971, #6c2c5d, #502245) 0 0 / 1000% no-repeat;
