@@ -264,6 +264,19 @@ a{
     border-radius: 10px;
     text-align: center;
 }
+
+#box2 h2, #box3 h2 {
+    background-color: rgba(102, 0, 102, 0.4);
+    border-radius: 10px;
+    text-align: center;
+}
+
+ #box3 h2 {
+    background-color: rgba(102, 0, 102, 0.4);
+    border-radius: 10px;
+    text-align: center;
+}
+
 fieldset#orderInfo,
 fieldset#paymentInfo {
     border-radius: 10px;
