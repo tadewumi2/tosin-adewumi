@@ -480,12 +480,19 @@ ol {
   #contactWrapper {
     padding: 10px;
   }
-
-  #contactWrapper {
-    padding: 10px;
-  }
   #aboutWrapper {
     padding: 10px;
+    height: 100%;
+  }
+  #skillsWrapper {
+    height: 100%;
+  }
+  #wrapper {
+    height: 100%;
+  }
+  #projectWrapper {
+    padding: 10px;
+    height: 100%;
   }
   #headerNav {
         width: 90%;
