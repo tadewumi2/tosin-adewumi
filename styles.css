@@ -131,9 +131,6 @@ header h1{
 }
 #skillsWrapper{
     background-image: url("images/bd.jpeg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
     height: 100%;
 }
 #box {
