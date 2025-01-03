@@ -1,6 +1,5 @@
 /********f************
     
-    Project 4 Stylesheet
     Name: Adewumi Tosin
     Date: 20th October, 2024
     Description: Project 4 (Website Deployment)
@@ -449,7 +448,7 @@ ol {
     margin-bottom: 100px;
 }
 
-@media (max-width: 640px) {
+@media (min-width: 480px) {
     #headerNav ul {
         flex-direction: column; 
         /*align-items: center;*/
