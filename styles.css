@@ -448,7 +448,7 @@ ol {
     margin-bottom: 100px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     #headerNav ul {
         flex-direction: column; 
         display: flex;
